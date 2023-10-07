@@ -41,7 +41,7 @@ grid-template-areas: "top-left top-left top-right"
                       "btm-left btm-right btm-right";
 }
 
-#top-left, #top-right, #btm-left, #btm-right {
+#top-left, #top-right, #btm-left, #btm-right { 
   display: flex;
   justify-content: center;
   align-items: center;
